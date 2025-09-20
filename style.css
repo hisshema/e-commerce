@@ -1,1 +1,29 @@
 
+    body {
+      font-family: Arial;
+      background-color: green;
+      text-align: center;
+    }
+    h1 {
+      color: blue;
+    }
+    .product {
+      background: white;
+      border: 1px solid black;
+      width: 90rem;
+      height: 20rem;
+      margin: 20px auto;
+      margin-left: -15px;
+      padding: 10px;
+
+    }
+    .price {
+      color: green;
+      font-weight: bold;
+    }
+
+    img{
+        height: 200px;
+        
+    }
+
